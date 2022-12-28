@@ -4,9 +4,9 @@ import boardgame.Board;
 import chess.ChessPiece;
 import chess.Color;
 
-public class Kings extends ChessPiece {
+public class King extends ChessPiece {
 
-	public Kings(Board board, Color color) {
+	public King(Board board, Color color) {
 		super(board, color);
 	}
 	
